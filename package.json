@@ -1,6 +1,6 @@
 {
   "$schema": "http://json.schemastore.org/coffeelint",
-  "name": "websdk-local",
+  "name": "fygi",
   "version": "1.7.2",
   "description": "Zoom sample app for web client WebSDK",
   "main": "index.js",
@@ -50,5 +50,13 @@
     "webpack": "^4.26.1",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanSiddharth/Webinar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PavanSiddharth/Webinar/issues"
+  },
+  "homepage": "https://github.com/PavanSiddharth/Webinar#readme"
 }
