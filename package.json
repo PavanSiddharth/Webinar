@@ -30,7 +30,8 @@
     "redux-thunk": "2.2.0"
   },
   "engines": {
-    "node": "12.1.0"
+    "node": "12.1.0",
+    "npm":"6.11.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
